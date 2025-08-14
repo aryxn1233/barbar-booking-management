@@ -10,10 +10,11 @@ Reviews and Ratings: Customers can leave feedback and rate their experience.
 Technologies Used
 Frontend: HTML, CSS, JavaScript, React.js
 Authentication: JWT (JSON Web Tokens)
+also visit barbar-booking-management.vercel.app site to test
 Installation
 Clone the repository:
 Copy
-git clone https://github.com/aryxn1233/barber-booking-management
+git clone https://github.com/aryxn1233/barbar-booking-management.git
 Navigate to the project directory:
 Copy
 cd barber-booking-system
