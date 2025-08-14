@@ -10,7 +10,7 @@ Reviews and Ratings: Customers can leave feedback and rate their experience.
 Technologies Used
 Frontend: HTML, CSS, JavaScript, React.js mainly typescript
 Authentication: JWT (JSON Web Tokens)
-also visit barbar-booking-management.vercel.app site to test
+also visit https://barbar-booking-management.vercel.app site to test
 Installation
 Clone the repository:
 Copy
