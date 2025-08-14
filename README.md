@@ -8,7 +8,7 @@ Appointment Booking: Users can view available time slots and book appointments w
 Admin Dashboard: Barbers and shop managers can manage appointments, view customer details, and update their availability.
 Reviews and Ratings: Customers can leave feedback and rate their experience.
 Technologies Used
-Frontend: HTML, CSS, JavaScript, React.js
+Frontend: HTML, CSS, JavaScript, React.js mainly typescript
 Authentication: JWT (JSON Web Tokens)
 also visit barbar-booking-management.vercel.app site to test
 Installation
@@ -22,7 +22,7 @@ Install dependencies:
 Copy
 npm install
 Set up environment variables in a .env file:
-GEMINI_KEY_KEY=your_stripe_secret_key
+GEMINI_KEY_KEY=
 Open your browser and navigate to http://localhost:3000.
 Create an account or log in to book an appointment.
 Barbers can log in to manage their schedules.
