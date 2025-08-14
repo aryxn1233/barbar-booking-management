@@ -1,0 +1,5 @@
+{
+  "name": "BarberBook",
+  "description": "A comprehensive booking and management platform for barbershops. Clients can book appointments, barbers can manage their profiles and services, and admins can oversee the entire system, including user management and approvals.",
+  "requestFramePermissions": ["geolocation"]
+}
