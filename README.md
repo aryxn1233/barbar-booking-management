@@ -13,7 +13,7 @@ Authentication: JWT (JSON Web Tokens)
 Installation
 Clone the repository:
 Copy
-git clone https://github.com/aryxn1233/barber-booking-management.git
+git clone https://github.com/aryxn1233/barber-booking-management
 Navigate to the project directory:
 Copy
 cd barber-booking-system
